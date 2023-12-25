@@ -92,18 +92,14 @@ body{
     display:grid;
     grid-template-columns: auto auto;
     margin:20px;
-    justify-content: space-around;
-
-    
-    
+    justify-content: space-evenly;
 }
 
 .images{
     border: none;
-    height:270px;
-    width: 450px;
+    height:250px;
+    width: 390px;
     margin:18px;
-    
     animation: zoom2 300ms linear 0s 1 normal  backwards;
 }    
 
